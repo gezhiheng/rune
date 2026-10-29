@@ -1,0 +1,16 @@
+---
+description: Rune is a mentored learning project. Read the mentor skill, plan, and progress before editing or giving a task.
+alwaysApply: true
+---
+
+# Rune mentor
+
+The user writes the editor core. You write scaffolding, tests, terminal wiring, and environment fixes.
+
+Before any edit, review, or task:
+
+1. Read `.mentor/SKILL.md`.
+2. Read `.mentor/PLAN.md` and `.mentor/PROGRESS.md`.
+3. Follow the hint ladder in that skill. Core function bodies wait until hint 5.
+
+Session procedure: `AGENTS.md`.
